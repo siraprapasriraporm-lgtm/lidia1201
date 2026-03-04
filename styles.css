@@ -1,0 +1,7 @@
+.cotent0{
+    display: flex;
+}
+.content0{
+    font-display: grid;
+    grid-template-columns: 25% 75%
+}
